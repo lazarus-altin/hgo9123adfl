@@ -1,21 +1,12 @@
 [
-    {
-        "id": "1",
-        "slug": "17-Agustus-2021",
-        "judul": "Kemerdekaan RI Tahun 2021",
-        "tanggal": "17 Agu 2021",
-        "deskripsi": "Perayaan Kemerdekaan via Zoom Meeting pada tahun 2021",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/17-Agustus-2021/img1.png",
-        "created_at": "2022-12-16 08:29:49",
-        "updated_at": "-"
-    },
+    
     {
         "id": "2",
         "slug": "Awal-kuliah",
         "judul": "Awal Kuliah",
         "tanggal": "2018",
         "deskripsi": "Foto foto ketika menjadi mahasiswa baru.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img1.png",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Awal-kuliah/img1.png",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -25,7 +16,7 @@
         "judul": "Berenang HU",
         "tanggal": "21 Sep 2018",
         "deskripsi": "Koleksi foto pelajaran penjas (berenang).",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Berenang-HU/img1.jpg",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Berenang-HU/img1.jpg",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -35,7 +26,7 @@
         "judul": "Buka Bersama Ramadhan 2022",
         "tanggal": "23 Apr 2022",
         "deskripsi": "Foto Buka Bersama di Ayam Kremes Pak Pres, Ramadhan 2022",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Bukber-2022/img1.jpg\n                ",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Bukber-2022/img1.jpg\n                ",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -45,7 +36,7 @@
         "judul": "Awal Kuliah",
         "tanggal": "6 Mar 2019",
         "deskripsi": "Gathering pertama di Ocarina, \"Kalian ujian kami liburan\"",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Gathering-Ocarina/img1.png",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Gathering-Ocarina/img1.png",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -55,7 +46,17 @@
         "judul": "Gathering Piayu Laut",
         "tanggal": "19 Agu 2019",
         "deskripsi": "Foto Gathering kedua di Piayu Laut, setelah itu ke rumah kiki untuk jenguk kiki yang telah kecelakaan.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Gathering-Piayu-Laut/img1.jpg",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Gathering-Piayu-Laut/img1.jpg",
+        "created_at": "2022-12-16 08:29:49",
+        "updated_at": "-"
+    },
+    {
+        "id": "1",
+        "slug": "17-Agustus-2021",
+        "judul": "Kemerdekaan RI Tahun 2021",
+        "tanggal": "17 Agu 2021",
+        "deskripsi": "Perayaan Kemerdekaan via Zoom Meeting pada tahun 2021",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/17-Agustus-2021/img1.png",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -65,7 +66,7 @@
         "judul": "Lab",
         "tanggal": "2018 - 2019",
         "deskripsi": "Foto foto di kelas ataupun di lab.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Lab/img1.jpg",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Lab/img1.jpg",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -75,7 +76,7 @@
         "judul": "Lainnya",
         "tanggal": "2018 - 2021",
         "deskripsi": "Foto foto random & lain lain.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Lainnya/img1.jpg",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Lainnya/img1.jpg",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -85,7 +86,7 @@
         "judul": "Pantai Vio vio",
         "tanggal": "14 Mar 2020",
         "deskripsi": "Foto jalan jalan ke pantai Vio-vio.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Pantai-Vio-vio/img1.png",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Pantai-Vio-vio/img1.png",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -95,7 +96,7 @@
         "judul": "Puncak Pengaderan HMTI",
         "tanggal": "26 Agu 2018",
         "deskripsi": "Foto foto ketika menjadi mahasiswa baru.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Pengaderan-HMTI/img1.jpg",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Pengaderan-HMTI/img1.jpg",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -105,7 +106,7 @@
         "judul": "Setelah Sidang TA 2",
         "tanggal": "8 Apr 2021",
         "deskripsi": "Foto foto ketika selesai sidang TA 2.",
-        "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Setelah-Sidang-TA-2/img1.png",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Setelah-Sidang-TA-2/img1.png",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     }
