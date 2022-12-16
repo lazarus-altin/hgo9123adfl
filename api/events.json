@@ -11,6 +11,16 @@
         "updated_at": "-"
     },
     {
+        "id": "10",
+        "slug": "Pengaderan-HMTI",
+        "judul": "Puncak Pengaderan HMTI",
+        "tanggal": "26 Agu 2018",
+        "deskripsi": "Foto foto ketika menjadi mahasiswa baru.",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Pengaderan-HMTI/img1.jpg",
+        "created_at": "2022-12-16 08:29:49",
+        "updated_at": "-"
+    },
+    {
         "id": "3",
         "slug": "Berenang-HU",
         "judul": "Berenang HU",
@@ -20,20 +30,11 @@
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
-    {
-        "id": "4",
-        "slug": "Bukber-2022",
-        "judul": "Buka Bersama Ramadhan 2022",
-        "tanggal": "23 Apr 2022",
-        "deskripsi": "Foto Buka Bersama di Ayam Kremes Pak Pres, Ramadhan 2022",
-        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Bukber-2022/img1.jpg\n                ",
-        "created_at": "2022-12-16 08:29:49",
-        "updated_at": "-"
-    },
+    
     {
         "id": "5",
         "slug": "Gathering-Ocarina",
-        "judul": "Awal Kuliah",
+        "judul": "Gathering Ocarina",
         "tanggal": "6 Mar 2019",
         "deskripsi": "Gathering pertama di Ocarina, \"Kalian ujian kami liburan\"",
         "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Gathering-Ocarina/img1.png",
@@ -47,6 +48,16 @@
         "tanggal": "19 Agu 2019",
         "deskripsi": "Foto Gathering kedua di Piayu Laut, setelah itu ke rumah kiki untuk jenguk kiki yang telah kecelakaan.",
         "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Gathering-Piayu-Laut/img1.jpg",
+        "created_at": "2022-12-16 08:29:49",
+        "updated_at": "-"
+    },
+    {
+        "id": "6",
+        "slug": "Gathering-Pantai-Payung",
+        "judul": "Gathering Pantai Payung",
+        "tanggal": "4 Apr 2021",
+        "deskripsi": "Foto Gathering kedua di Pantai Payung, Momen kumpul kumpul terakhir sekelas.",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Gathering-Pantai-Payung/img1.jpg",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
@@ -80,6 +91,7 @@
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
+    
     {
         "id": "9",
         "slug": "Pantai-Vio-vio",
@@ -91,12 +103,12 @@
         "updated_at": "-"
     },
     {
-        "id": "10",
-        "slug": "Pengaderan-HMTI",
-        "judul": "Puncak Pengaderan HMTI",
-        "tanggal": "26 Agu 2018",
-        "deskripsi": "Foto foto ketika menjadi mahasiswa baru.",
-        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Pengaderan-HMTI/img1.jpg",
+        "id": "4",
+        "slug": "Bukber-2022",
+        "judul": "Buka Bersama Ramadhan 2022",
+        "tanggal": "23 Apr 2022",
+        "deskripsi": "Foto Buka Bersama di Ayam Kremes Pak Pres, Ramadhan 2022",
+        "card_img": "https://raw.githubusercontent.com/lazarus-altin/hgo9123adfl/main/assets/kenangan/Bukber-2022/img1.jpg\n                ",
         "created_at": "2022-12-16 08:29:49",
         "updated_at": "-"
     },
