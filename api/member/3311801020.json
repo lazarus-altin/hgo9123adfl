@@ -1,0 +1,31 @@
+{
+    "id": "18",
+    "nim": "3311801020",
+    "nama": "Henny Hendrani Nasution",
+    "email": "-",
+    "dob": "25 May 1999",
+    "instagram": "ad.henny",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img1_story.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img4.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "88",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img1.jpg"
+        },
+        {
+            "id": "89",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img2.jpg"
+        },
+        {
+            "id": "90",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img3.jpg"
+        },
+        {
+            "id": "91",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801020/img4.jpg"
+        }
+    ]
+}

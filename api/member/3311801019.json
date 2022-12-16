@@ -1,0 +1,31 @@
+{
+    "id": "17",
+    "nim": "3311801019",
+    "nama": "Iqbal Afif",
+    "email": "-",
+    "dob": "-",
+    "instagram": "iqbalafif18",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img1_card.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img1_card.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "84",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img1.jpg"
+        },
+        {
+            "id": "85",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img2.jpg"
+        },
+        {
+            "id": "86",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img3.jpg"
+        },
+        {
+            "id": "87",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801019/img4.jpg"
+        }
+    ]
+}

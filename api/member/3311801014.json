@@ -1,0 +1,23 @@
+{
+    "id": "12",
+    "nim": "3311801014",
+    "nama": "Treesya Mellyani",
+    "email": "-",
+    "dob": "25 Dec 1999",
+    "instagram": "trsyamliyni",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801014/img1_story.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801014/img1_card.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "57",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801014/img1.jpg"
+        },
+        {
+            "id": "58",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801014/img2.jpg"
+        }
+    ]
+}

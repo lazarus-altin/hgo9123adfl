@@ -1,0 +1,43 @@
+{
+    "id": "14",
+    "nim": "3311801016",
+    "nama": "Sultan Arizal Mahing",
+    "email": "arizalsultan25@gmail.com",
+    "dob": "25 Apr 1999",
+    "instagram": "sultanarizal.jpg",
+    "quote": "Give me envy, give me malice, give me your attention!",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img1.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img1_card.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "67",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img1.jpg"
+        },
+        {
+            "id": "68",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img2.jpg"
+        },
+        {
+            "id": "69",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img3.jpg"
+        },
+        {
+            "id": "70",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img4.jpg"
+        },
+        {
+            "id": "71",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img5.jpg"
+        },
+        {
+            "id": "72",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img6.jpg"
+        },
+        {
+            "id": "73",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801016/img7.jpg"
+        }
+    ]
+}

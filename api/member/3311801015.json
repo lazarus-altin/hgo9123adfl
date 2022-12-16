@@ -1,0 +1,47 @@
+{
+    "id": "13",
+    "nim": "3311801015",
+    "nama": "Ulfa",
+    "email": "-",
+    "dob": "25 Mar 1999",
+    "instagram": "ulfaridhwan",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img1_story.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img2.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "59",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img1.jpg"
+        },
+        {
+            "id": "60",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img2.jpg"
+        },
+        {
+            "id": "61",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img3.jpg"
+        },
+        {
+            "id": "62",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img4.jpg"
+        },
+        {
+            "id": "63",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img5.jpg"
+        },
+        {
+            "id": "64",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img6.jpg"
+        },
+        {
+            "id": "65",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img7.jpg"
+        },
+        {
+            "id": "66",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801015/img8.jpg"
+        }
+    ]
+}

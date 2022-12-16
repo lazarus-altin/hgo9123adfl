@@ -1,0 +1,60 @@
+{
+    "id": "2",
+    "slug": "Awal-kuliah",
+    "judul": "Awal Kuliah",
+    "tanggal": "2018",
+    "deskripsi": "Foto foto ketika menjadi mahasiswa baru.",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img1.png",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "156",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img1.png"
+        },
+        {
+            "id": "157",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img2.png"
+        },
+        {
+            "id": "158",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img3.png"
+        },
+        {
+            "id": "159",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img4.png"
+        },
+        {
+            "id": "160",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img5.png"
+        },
+        {
+            "id": "161",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img6.png"
+        },
+        {
+            "id": "162",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img7.png"
+        },
+        {
+            "id": "163",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img8.png"
+        },
+        {
+            "id": "164",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img9.png"
+        },
+        {
+            "id": "165",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img10.png"
+        },
+        {
+            "id": "166",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img11.png"
+        },
+        {
+            "id": "167",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/kenangan/Awal-kuliah/img12.png"
+        }
+    ]
+}

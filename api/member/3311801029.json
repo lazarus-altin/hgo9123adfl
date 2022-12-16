@@ -1,0 +1,43 @@
+{
+    "id": "26",
+    "nim": "3311801029",
+    "nama": "Ardita Hardi",
+    "email": "-",
+    "dob": "15 Mar 2001",
+    "instagram": "arditahrd",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img1.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img6.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "123",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img1.jpg"
+        },
+        {
+            "id": "124",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img2.jpg"
+        },
+        {
+            "id": "125",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img3.jpg"
+        },
+        {
+            "id": "126",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img4.jpg"
+        },
+        {
+            "id": "127",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img5.jpg"
+        },
+        {
+            "id": "128",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img6.jpg"
+        },
+        {
+            "id": "129",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801029/img7.jpg"
+        }
+    ]
+}

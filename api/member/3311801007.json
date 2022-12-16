@@ -1,0 +1,35 @@
+{
+    "id": "6",
+    "nim": "3311801007",
+    "nama": "Nadila",
+    "email": "-",
+    "dob": "25 Apr 2000",
+    "instagram": "ndllaaa_",
+    "quote": "-",
+    "story_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img1_story.jpg",
+    "card_img": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img2.jpg",
+    "created_at": "2022-12-16 08:29:49",
+    "updated_at": "-",
+    "photos": [
+        {
+            "id": "26",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img1.jpg"
+        },
+        {
+            "id": "27",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img2.jpg"
+        },
+        {
+            "id": "28",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img3.jpg"
+        },
+        {
+            "id": "29",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img4.jpg"
+        },
+        {
+            "id": "30",
+            "url": "https://raw.githubusercontent.com/arizalsultan25/static_api_if_mobile/main/assets/anggota/3311801007/img5.jpg"
+        }
+    ]
+}
